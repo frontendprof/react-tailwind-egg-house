@@ -29,6 +29,7 @@
 1. Navbar layout with responsiveness
 2. Navbar style
 3. Animation application
+4. Toggle functionality
 
 ### Hero component
 
@@ -50,3 +51,9 @@
 1. Creating home, about, menu pages
 2. Setting up routes accordingly
 3. Implementing some style
+
+### Dropdown component
+
+1. Basic layout, style
+2. Migrating routes
+3. Toggle functionality

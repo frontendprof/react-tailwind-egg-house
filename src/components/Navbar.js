@@ -5,7 +5,7 @@ import {Link} from "react-router-dom";
 
 
 
-const Navbar = () => {
+const Navbar = ({toggle}) => {
     return (
         <div className="flex justify-between items-center h-16 bg-white text-black relative shadow-sm font-mono"
         role="navigation">
@@ -13,7 +13,7 @@ const Navbar = () => {
                 <Link to="/" className="pl-8">EggHouse</Link>
             </nav>
 
-            <div className="px-4 cursor-pointer md:hidden">
+            <div className="px-4 cursor-pointer md:hidden" onClick={toggle}>
                 <svg 
                     className="w-6 h-6" 
                     fill="none" 
