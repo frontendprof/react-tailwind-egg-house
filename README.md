@@ -23,3 +23,19 @@
 3.  Content component
 4.  Dropdown component
 5.  Footer component
+
+### Navbar Component
+
+1. Navbar layout with responsiveness
+2. Navbar style
+3. Animation application
+
+# Hero component
+
+1. Hero layout with style
+2. Animated button
+
+# Content component
+
+1. Content layout, style
+2. Images rendering
