@@ -30,12 +30,23 @@
 2. Navbar style
 3. Animation application
 
-# Hero component
+### Hero component
 
 1. Hero layout with style
 2. Animated button
 
-# Content component
+### Content component
 
 1. Content layout, style
 2. Images rendering
+
+### Footer component
+
+1. Footer layout, style
+2. Images rendering
+
+### Pages (blah)
+
+1. Creating home, about, menu pages
+2. Setting up routes accordingly
+3. Implementing some style
